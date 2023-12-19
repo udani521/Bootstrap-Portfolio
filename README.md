@@ -2,6 +2,7 @@
 Recreating a portfolio using Bootstrap
 
 ![Alt text](<image/Screenshot 2023-12-19 095253.png>)
+https://github.com/udani521/Bootstrap-Portfolio/blob/77793cbb0f4e426d217b6c9d5aafb98f7b19815e/image/Screenshot%202023-12-19%20095253.png
 
 ## Overview
 Recreating a portfolio in lesser time with more features using Bootstrap toolkits 
