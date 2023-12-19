@@ -2,4 +2,13 @@
 .navbar{
     display: flex;
     justify-content: end;
+
 }
+.cards-wrapper{
+    column-gap:15px
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+
